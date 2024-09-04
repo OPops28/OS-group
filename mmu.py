@@ -14,6 +14,9 @@ class MMU:
     def write_memory(self, page_number):
         pass
 
+    def replace_page(self, page_number, mode):
+        pass
+
     def set_debug(self):
         pass
 
