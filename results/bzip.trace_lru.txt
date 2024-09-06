@@ -1,0 +1,6 @@
+Frames: 8, Disk Reads: 30691.0, Disk Writes: 11092.0, Page Fault Rate: 0.0307
+Frames: 16, Disk Reads: 3344.0, Disk Writes: 1069.0, Page Fault Rate: 0.0033
+Frames: 32, Disk Reads: 2133.0, Disk Writes: 702.0, Page Fault Rate: 0.0021
+Frames: 64, Disk Reads: 1264.0, Disk Writes: 420.0, Page Fault Rate: 0.0013
+Frames: 128, Disk Reads: 771.0, Disk Writes: 224.0, Page Fault Rate: 0.0008
+Frames: 256, Disk Reads: 397.0, Disk Writes: 48.0, Page Fault Rate: 0.0004
