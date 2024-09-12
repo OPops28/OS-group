@@ -1,6 +1,14 @@
 Frames: 8, Disk Reads: 46164.0, Disk Writes: 17568.0, Page Fault Rate: 0.0462
 Frames: 16, Disk Reads: 3468.0, Disk Writes: 1128.0, Page Fault Rate: 0.0035
 Frames: 32, Disk Reads: 2203.0, Disk Writes: 734.0, Page Fault Rate: 0.0022
+Frames: 48, Disk Reads: 1557.0, Disk Writes: 540.0, Page Fault Rate: 0.0016
 Frames: 64, Disk Reads: 1318.0, Disk Writes: 443.0, Page Fault Rate: 0.0013
+Frames: 80, Disk Reads: 1043.0, Disk Writes: 357.0, Page Fault Rate: 0.001
+Frames: 96, Disk Reads: 976.0, Disk Writes: 324.0, Page Fault Rate: 0.001
+Frames: 112, Disk Reads: 868.0, Disk Writes: 272.0, Page Fault Rate: 0.0009
 Frames: 128, Disk Reads: 802.0, Disk Writes: 235.0, Page Fault Rate: 0.0008
+Frames: 160, Disk Reads: 639.0, Disk Writes: 166.0, Page Fault Rate: 0.0006
+Frames: 192, Disk Reads: 555.0, Disk Writes: 133.0, Page Fault Rate: 0.0006
 Frames: 256, Disk Reads: 432.0, Disk Writes: 71.0, Page Fault Rate: 0.0004
+Frames: 320, Disk Reads: 317.0, Disk Writes: 0.0, Page Fault Rate: 0.0003
+Frames: 384, Disk Reads: 317.0, Disk Writes: 0.0, Page Fault Rate: 0.0003
